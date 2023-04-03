@@ -121,3 +121,13 @@ i{
 .selected{
     border-bottom: solid gray 3px;
 }
+
+#top{
+    text-align: center;
+  }
+  
+#mybtn {
+    background-color: #fff;
+    color: black;
+    font-size: 2vw;
+  }
